@@ -11,6 +11,11 @@
 > - Google security
 > - etc...
 
+### Uses
+
+- Consider a scenario where we've to check from lots of username:passwords dump whether they're working credentials or not.
+- Consider we know our username but lost the password. If we know some characters of password then it'll tell which is the correct one.
+
 ## Contents
 
 > - [Content1]()
