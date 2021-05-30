@@ -24,5 +24,5 @@
 
 ## Updates
 
-> This repo will be updated regularly with many new web portals to automate login
+> This repo will be updated regularly with many new web portals to automate login  
 > Pin it/Fork it for future 
